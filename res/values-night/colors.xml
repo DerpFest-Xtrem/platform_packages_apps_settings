@@ -64,11 +64,15 @@
     <!-- Icon tint color for battery usage system icon -->
     <color name="battery_usage_system_icon_color">@android:color/white</color>
 
-         <!-- Dashboard/homepage icon background colors -->
+     <!-- Dashboard/homepage icon background colors -->
      <color name="homepage_subicon_bg">@*android:color/system_neutral1_900</color>
      <color name="superior_pref_color">@android:color/system_neutral1_800</color>
      <color name="superior_background1">@android:color/system_neutral1_900</color>
      <color name="superior_background2">@android:color/system_neutral1_800</color>
      <color name="superior_background3">@android:color/system_accent1_200</color>
+    
+    <!-- Settings Header -->
+    <color name="op_control_text_color_secondary">#89ffffff</color>
+    <color name="op_control_text_color_primary">#ffffffff</color>
 </resources>
 
