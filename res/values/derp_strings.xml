@@ -21,8 +21,8 @@
 
     <!-- DerpFest maintainer -->
     <string name="maintainer">Maintainer</string>
-    <string name="maintainer_name" translatable="false">Your local GitHub Retard</string>
-    <string name="maintainer_telegram" translatable="false">https://t.me/DerpFest5T</string>
+    <string name="maintainer_name" translatable="false">GHOST | ゴースト</string>
+    <string name="maintainer_telegram" translatable="false">https://t.me/Ghosuto7</string>
 
     <!-- DerpFest Updater -->
     <string name="update_settings_title">DerpFest Updater</string>
